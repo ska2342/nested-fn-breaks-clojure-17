@@ -1,6 +1,6 @@
 # nested-fn-breaks-clojure-17
 
-A Clojure library designed to ... well, that part is up to you.
+Minimal example for a compilation problem with Clojure 1.7.0-alpha3
 
 ## Usage
 
